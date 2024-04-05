@@ -1,0 +1,23 @@
+.button {
+  background-color: #355a20;
+  border-color: #93cb56;
+  border-radius: 4px;
+  color: #fff;
+  padding: 10px;
+  margin: 0 10px;
+}
+
+.value {
+  font-size: 100px;
+  color: #355a20;
+}
+
+.gallery {
+  display: flex;
+  column-gap: 20px;
+
+  img {
+    width: 100px;
+    height: 100px;
+  }
+}
